@@ -1,1 +1,2 @@
 This is how I create a new file via command line
+I <Kadara Tandia>, hereby declare that I am all set to write c++ code for linux (or mac-unix) and push the code to GitHub from my command line.
